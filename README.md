@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Developer with a background in game development and tooling.  
+Developer with a background in game development, websites, libraries and tooling.  
 Started with Minecraft server plugins, then moved to Unreal Engine, first using Blueprints and later C++.
 
 
