@@ -38,5 +38,5 @@ Started with Minecraft server plugins, then moved to Unreal Engine, first using 
 
 [![portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge)]()
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axellucien/)
 
