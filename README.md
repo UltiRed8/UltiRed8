@@ -34,9 +34,9 @@ Started with Minecraft server plugins, then moved to Unreal Engine, first using 
 
 ## 🔗 Links
 
-(Coming soon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](http://ultired.redirectme.net/Site/)
 
-[![portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axellucien/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axellucien/)
+[![ItchIO](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge)](https://ultired.itch.io)
 
